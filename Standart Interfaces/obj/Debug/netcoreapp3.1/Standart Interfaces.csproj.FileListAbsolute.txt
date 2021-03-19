@@ -1,0 +1,13 @@
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.exe
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.deps.json
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.runtimeconfig.json
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.runtimeconfig.dev.json
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.dll
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\bin\Debug\netcoreapp3.1\Standart Interfaces.pdb
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.csprojAssemblyReference.cache
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.AssemblyInfoInputs.cache
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.AssemblyInfo.cs
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.dll
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.pdb
+C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Standart Interfaces\obj\Debug\netcoreapp3.1\Standart Interfaces.genruntimeconfig.cache
