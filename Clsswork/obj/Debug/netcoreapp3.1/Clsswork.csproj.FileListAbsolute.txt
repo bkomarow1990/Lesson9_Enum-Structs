@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.exe
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.deps.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.runtimeconfig.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\bin\Debug\netcoreapp3.1\Clsswork.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Clsswork\obj\Debug\netcoreapp3.1\Clsswork.genruntimeconfig.cache

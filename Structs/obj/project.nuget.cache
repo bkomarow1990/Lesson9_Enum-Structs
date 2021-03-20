@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28eIYXoh29RFRKEPVI8SyODPXJVqh/w+RHQ7xImEO9d0pXt1ObQUSR+oeh7vrs5rGY41uM+8vn/5po4AvEH1Eg==",
+  "dgSpecHash": "9dsm0ZS3ShsfjvJgYrnH8lqioyfv2WAo6CRMqGktR6LWj6pc2xXG44ej5mIInufyQb/yGzgl7en2D38RtX933A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dev\\source\\repos\\Lesson9_ENUM,Struct\\Structs\\Structs.csproj",
+  "projectFilePath": "C:\\Users\\Igor\\source\\repos\\Lesson9_Enum-Structs\\Structs\\Structs.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -10,7 +10,7 @@ namespace Clsswork
     {
         public enum DrinkTypes
         {
-            Water = 1, Cola, Beer, Cofee, Tea
+            Water = 1, Carbonated, NonCarbonated, HotDrink, Alcoholic
         }
         private string name;
         public string Name

@@ -11,3 +11,16 @@ C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Lesson9_ENUM,Struct\obj\Debug\netc
 C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.dll
 C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.pdb
 C:\Users\dev\source\repos\Lesson9_ENUM,Struct\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.genruntimeconfig.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.exe
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.deps.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.runtimeconfig.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\bin\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\Lesson9_ENUM,Struct\obj\Debug\netcoreapp3.1\Lesson9_ENUM,Struct.genruntimeconfig.cache
