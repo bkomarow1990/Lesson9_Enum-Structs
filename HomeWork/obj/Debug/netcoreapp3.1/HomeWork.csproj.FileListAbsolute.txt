@@ -1,0 +1,13 @@
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.exe
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.deps.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.runtimeconfig.dev.json
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\bin\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.AssemblyInfo.cs
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.dll
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.pdb
+C:\Users\Igor\source\repos\Lesson9_Enum-Structs\HomeWork\obj\Debug\netcoreapp3.1\HomeWork.genruntimeconfig.cache
